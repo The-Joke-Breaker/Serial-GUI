@@ -1,3 +1,6 @@
+//serialgui.h
+//Funktionerne af programmet.
+//Programmeret af Mathias Steentoft og Lars Jensen.
 #include <stdio.h>		//Indlæs standard I/O definitioner
 #include <fcntl.h>		//Indlæs filkontroldefinitioner 
 #include <termios.h>	//Indlæs POSIX terminal kontrol biblioteket
