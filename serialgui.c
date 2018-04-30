@@ -1,3 +1,6 @@
+//serialgui.c
+//Hovedprogrammet. Her kører brugerfladen. 
+//Programmeret af Mathias Steentoft og Lars Jensen
 #include "serialgui.h" //Indlæs Serial-backend.h der indeholder Seriel kommandoerne
 int main(int argc, char *argv[]) {
   gtk_init(&argc, &argv); 													//Initialiserer GTK+ bibloteket
