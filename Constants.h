@@ -1,3 +1,6 @@
+//Constants.h
+//Globale konstanter placeres her.
+//Programmeret af Mathias Steentoft og Lars Jensen.
 #include <gtk/gtk.h> //Indlæs GTK+ biblioteket
 #include <glib/gprintf.h> //Indlæs glib funktioner til glib strings
 
